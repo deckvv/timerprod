@@ -1,0 +1,19 @@
+{
+  "@@last_modified": "2019-04-16T16:30:15.711194",
+  "title": "Football timer",
+  "@title": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "halfTime": "HALF",
+  "@halfTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gameTo": "GAME TO",
+  "@gameTo": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

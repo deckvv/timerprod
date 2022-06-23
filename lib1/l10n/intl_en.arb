@@ -1,0 +1,95 @@
+{
+  "@@last_modified": "2019-04-16T16:30:15.711194",
+  "title": "Football timer",
+  "@title": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "halfTime": "HALF",
+  "@halfTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "halfTimeForRes": "Half",
+  "@halfTimeForRes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "goalForRes": "Goal at",
+  "@goalForRes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  
+  "gameTo": "GAME TO",
+  "@gameTo": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "timerText": "TIMER",
+  "@timerText": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "resultsBtn": "Results",
+  "@resultsBtn": {
+    "type": "text",
+    "placeholders": {}
+  }
+   "timerReseted": "Timer has been reseted!",
+  "@timerReseted": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "ok": "OK",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "cmdName": "Command name",
+  "@cmdName": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "oneHalf": "Time of one half",
+  "@oneHalf": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help1": "- To start game you need to set the time.",
+  "@help1": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help2": "- To set the time, half or to goal option, you need to tap on it.",
+  "@help2": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help3": "- To restart all options, you need long press the start button.",
+  "@help3": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help4": "- To change team name, you need tap on it.",
+  "@help4": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help5": "- To set minute or seconds, you need tap on it and change.",
+  "@help5": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help6": "- To show help dialog, you need tap on app name in left corner.",
+  "@help6": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

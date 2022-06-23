@@ -1,0 +1,95 @@
+{
+  "@@last_modified": "2019-04-16T16:30:15.711194",
+  "title": "Футбольный таймер",
+  "@title": {
+    "description": "App title",
+    "type": "text",
+    "placeholders": {}
+  },
+  "halfTime": "ТАЙМ",
+  "@halfTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gameTo": "ИГРА ДО",
+  "@gameTo": {
+    "type": "text",
+    "placeholders": {}
+  }
+   "timerText": "ТАЙМЕР",
+  "@timerText": {
+    "type": "text",
+    "placeholders": {}
+  },
+   "resultsBtn": "Результаты",
+  "@resultsBtn": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "timerReseted": "Таймер был перезапущен!",
+  "@timerReseted": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "ok": "OK",
+  "@ok": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "cancel": "Отмена",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "cmdName": "Название команды",
+  "@cmdName": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "oneHalf": "Время одного тайма",
+  "@oneHalf": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "halfTimeForRes": "Тайм",
+  "@halfTimeForRes": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "goalForRes": "Гол на",
+  "@goalForRes": {
+    "type": "text",
+    "placeholders": {}
+  },
+    "help1": "- Для начала игры нужно установить время.",
+  "@help1": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help2": "- Для установки времени, тайма или количество голов, необходимо нажать на них.",
+  "@help2": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help3": "- Для перезапуска всех опций, необходимо задержать кнопку старта.",
+  "@help3": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help4": "- Для редактирования названия команди необходимо нажать на нее.",
+  "@help4": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help5": "- Для установки минут или секунд в таймере, необходимо нажать на них.",
+  "@help5": {
+    "type": "text",
+    "placeholders": {}
+  }
+  "help6": "- Для вивода окна помощи , необходимо нажать на название приложения в верхнем левом углу.",
+  "@help6": {
+    "type": "text",
+    "placeholders": {}
+  }
+
+}
